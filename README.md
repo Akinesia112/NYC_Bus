@@ -17,7 +17,7 @@ Classify whether the bus is delayed and possible influencing factors.
 Kaggle:New York City Bus Data-Live data recorded from NYC Buses - Location, Time, Schedule & more
 2017.06, about 5.77 million records of data.
 
-##Exploratory Data Analysis
+## Exploratory Data Analysis
 
 
 ## 1. Classification: 
