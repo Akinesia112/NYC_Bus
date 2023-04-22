@@ -12,9 +12,9 @@ In the above situation, many traffic survey methods can obtain research data, bu
 
 Machine learning modeling through NYC Real-time bus data stream:
 
-Predict arrival time and possible influencing factors.
+1. Predict arrival time and possible influencing factors.
 
-Classify whether the bus is delayed and possible influencing factors.
+2. Classify whether the bus is delayed and possible influencing factors.
 
 ## Dataset
 Kaggle:New York City Bus Data-Live data recorded from NYC Buses - Location, Time, Schedule & more.
