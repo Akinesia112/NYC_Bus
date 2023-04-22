@@ -26,7 +26,7 @@ Kaggle:New York City Bus Data-Live data recorded from NYC Buses - Location, Time
 
 ## 1. Classification: 
 
-- The location of the bus, the distance between the previous & next station are important variables for predicting early, on-time, and delayed.
+- The **location of the bus**, **the distance between the previous & next station** are important variables for predicting early, on-time, and delayed.
 
 - There are many bus routes in Brooklyn and Manhattan, and there are also many buses in Staten Island (especially on the north side) and Jamaica Bay.
 
@@ -34,7 +34,7 @@ Kaggle:New York City Bus Data-Live data recorded from NYC Buses - Location, Time
 
 ## 2. Regression: 
 
-- The location of the bus is an important variable for predicting arrival time.
+- The **location of the bus** is an important variable for predicting arrival time.
 
 ## Discussion and Results
 
