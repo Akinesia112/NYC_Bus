@@ -10,7 +10,7 @@ In the above situation, many traffic survey methods can obtain research data, bu
 
 ## Problems
 
-Machine learning modeling through NYC Real-time bus data stream:
+Machine learning modeling through NYC real-time bus data stream:
 
 1. Predict arrival time and possible influencing factors.
 
