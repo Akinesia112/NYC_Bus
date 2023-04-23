@@ -23,13 +23,27 @@ Machine learning modeling through NYC real-time bus data stream:
 - 2017.06, about 5.77 million records of data.
 
 ## Exploratory Data Analysis
-![image](images/Most_Delayed.png)
-![image](images/most_punctuality.png)
-![image](images/delay_per_day.png)
-![image](images/accuracy_analysis.png)
-![image](images/pie_chart.png)
-![image](images/weekend_delayed.png)
 
+![image](images/Most_Delayed.png)
+
+- Most delayed on Monday.
+
+![image](images/most_punctuality.png)
+- The route with the most punctuality is B6.
+
+![image](images/delay_per_day.png)
+- Number of delays per day of the week.
+
+![image](images/accuracy_analysis.png)
+
+- The period when the bus is easy to be delayed: 
+The bus delay time is longer between 16 and 21 o'clock.
+
+![image](images/pie_chart.png)
+- 75% late,16% early, 8% ontime.
+
+![image](images/weekend_delayed.png)
+- Weekends are more prone to delays than weekdays.
 
 ## 1. Classification: 
 
