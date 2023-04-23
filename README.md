@@ -3,26 +3,27 @@ NYC MTA Buses Data Stream Real-time Big Data Analysis.
 
 ## Motivation
 
-Although New York City has a famous subway system, 5,767 buses have been added to traffic operations since 2014 because of the long distance between stations. However, the lack of supporting decision-making tools led to the buses often jamming in the gridlock.
+- Although New York City has a famous subway system, 5,767 buses have been added to traffic operations since 2014 because of the long distance between stations. However, the lack of supporting decision-making tools led to the buses often jamming in the gridlock.
 
-In the above situation, many traffic survey methods can obtain research data, but most of these methods are limited by the need to stand at the intersection survey (such as speed gun), the data is hard to acquire (such as Inductive Loop Detector) or easy missing ( such as monitor recording).
+- In the above situation, many traffic survey methods can obtain research data, but most of these methods are limited by the need to stand at the intersection survey (such as speed gun), the data is hard to acquire (such as Inductive Loop Detector) or easy missing ( such as monitor recording).
 
 
 ## Problems
 
 Machine learning modeling through NYC real-time bus data stream:
 
-1. Predict arrival time and possible influencing factors.
+1. **Predict arrival time** and possible influencing factors.
 
-2. Classify whether the bus is delayed and possible influencing factors.
+2. **Classify whether the bus is delayed** and possible influencing factors.
 
 ## Dataset
-Kaggle:New York City Bus Data-Live data recorded from NYC Buses - Location, Time, Schedule & more.
 
-2017.06, about 5.77 million records of data.
+- Kaggle:New York City Bus Data-Live data recorded from NYC Buses - Location, Time, Schedule & more.
+
+- 2017.06, about 5.77 million records of data.
 
 ## Exploratory Data Analysis
-
+![image](images/Most_Delayed.png)
 
 ## 1. Classification: 
 
