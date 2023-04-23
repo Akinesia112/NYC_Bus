@@ -24,6 +24,12 @@ Machine learning modeling through NYC real-time bus data stream:
 
 ## Exploratory Data Analysis
 ![image](images/Most_Delayed.png)
+![image](images/most_punctuality.png)
+![image](images/delay_per_day.png)
+![image](images/accuracy_analysis.png)
+![image](images/pie_chart.png)
+![image](images/weekend_delayed.png)
+
 
 ## 1. Classification: 
 
