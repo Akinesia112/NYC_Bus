@@ -24,6 +24,11 @@ Machine learning modeling through NYC real-time bus data stream:
 
 ## Exploratory Data Analysis
 
+![image](images/accuracy_analysis.png)
+
+- The period when the bus is easy to be delayed: 
+The bus delay time is longer between 16 and 21 o'clock.
+
 ![image](images/Most_Delayed.png)
 
 - Most delayed on Monday.
@@ -33,11 +38,6 @@ Machine learning modeling through NYC real-time bus data stream:
 
 ![image](images/delay_per_day.png)
 - Number of delays per day of the week.
-
-![image](images/accuracy_analysis.png)
-
-- The period when the bus is easy to be delayed: 
-The bus delay time is longer between 16 and 21 o'clock.
 
 ![image](images/pie_chart.png)
 - 75% late,16% early, 8% ontime.
