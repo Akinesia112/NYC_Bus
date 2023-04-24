@@ -97,15 +97,31 @@ The **location of the bus** is an important variable for predicting arrival time
 
 ### Linear Regression
 
+![image](images/Linear_Regression_Coefficient.png)
+
+Performance on Training Data
+
+-  mean squared error: 0.0003, coefficient of determination: 0.0414.
+
+Performance on Testing Data
+
+-  mean squared error: 0.0003, coefficient of determination: 0.0365.
+
 ### Polynomial Regression
 
--Coefficient of Determination: 0.04
--Mean Squared Error: 0.0003.
+![image](images/Polynomial_Regression_Coefficient.png)
+
+- Coefficient of Determination: 0.04.
+
+- Mean Squared Error: 0.0003.
 
 ### DNN Regression
 
--Train MAE:0.59, Test MAE:0.59.
--Train Loss: 0.35, Test Loss: 0.35.
+![image](images/DNN.png)
+
+- Train MAE:0.59, Test MAE:0.59.
+
+- Train Loss: 0.35, Test Loss: 0.35.
 
 ## Discussion and Results
 
